@@ -9,3 +9,8 @@ html {
 body {
   @apply bg-zinc-950 text-gray-100;
 }
+
+.dot-grid {
+  background-image: radial-gradient(rgba(217, 119, 6, 0.12) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
