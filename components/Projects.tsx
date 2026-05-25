@@ -15,7 +15,7 @@ const featuredProjects = [
     tech: ["React", "TypeScript", "Node.js", "AI/ML", "PostgreSQL"],
     liveUrl: "https://tansuai.com",
     githubUrl: "#",
-    featured: false,
+    featured: true,
   },
 ];
 
