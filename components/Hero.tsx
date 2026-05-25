@@ -59,8 +59,8 @@ export default function Hero() {
             </div>
             {/* Floating badge */}
             <div className="absolute -bottom-2 -left-4 bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-2 shadow-xl">
-              <p className="text-xs text-gray-400">Founder of</p>
-              <p className="text-sm font-semibold text-amber-600">Aceinterview AI</p>
+              <p className="text-xs text-gray-400">Co-Founder of</p>
+              <p className="text-sm font-semibold text-amber-600">Tansu AI</p>
             </div>
           </div>
         </div>
