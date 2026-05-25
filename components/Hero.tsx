@@ -50,7 +50,7 @@ export default function Hero() {
             {/* Amber ring */}
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden ring-4 ring-amber-600/70 shadow-2xl shadow-amber-600/20">
               <Image
-                src="/profile.jpg"
+                src="/profile.png"
                 alt="Jenifer Rajendren"
                 fill
                 className="object-cover object-top"
